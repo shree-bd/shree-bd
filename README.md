@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **BookReco - A Book Recommender App**
 
-- 💬 Ask me about **Python, SQL, HTML, CSS**
+- 💬 Ask me about **Python, SQL, Data Warehousing**
 
 - 📫 How to reach me **shridharbhardwaj@gmail.com / shree@csu.fullerton.edu**
 

@@ -10,9 +10,10 @@
 - 🔭 I’m currently working on **End to End Data Engineering Project**
 
 - 🧑🏻‍🏫 I am currenly learning
-  Exporing Data Structures
-  Azure Technologies
-  Cloud and streaming tools
+
+    - Exporing Data Structures
+    - Azure Technologies
+    - Cloud and streaming tools
 
 - 📫 How to reach me **shridharbhardwaj@gmail.com | shree@csu.fullerton.edu**
 

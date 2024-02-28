@@ -4,9 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridharbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shridharbhardwaj" /> </p>
-- 😄 My pronouns are **He/His/Him**
 
 - 💬 Ask me about **Python, SQL, Big Data, Data Warehousing**
+  
+- 😄 My pronouns are **He/His/Him**
   
 - 🔭 I’m currently working on **End to End Data Engineering Project**
 

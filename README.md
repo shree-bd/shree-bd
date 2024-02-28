@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, SQL, Big Data, Data Warehousing**
   
-- 😄 My pronouns are **He/His/Him**
-  
 - 🔭 I’m currently working on **End to End Data Engineering Project**
 
 - 📫 How to reach me **shridharbhardwaj@gmail.com | shree@csu.fullerton.edu**

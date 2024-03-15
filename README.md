@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridharbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shridharbhardwaj" /> </p>
 
-- 💬 Ask me about **Python, SQL, Big Data, Data Warehousing**
+- 💬 Ask me about **Python, SQL, Big Data, PySpark, Data Warehousing**
   
 - 🔭 I’m currently working on **End to End Data Engineering Project**
 
-- 🧑🏻‍🏫 I am currenly learning
+- 🧑🏻‍🏫 I am currently learning
 
-    - Exporing Data Structures
+    - Exploring Data Structures
     - Azure Technologies
     - Cloud and streaming tools
 

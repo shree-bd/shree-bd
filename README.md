@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridharbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shridharbhardwaj" /> </p>
 
-- 💬 Ask me about **Python, SQL, Big Data, PySpark, Data Warehousing**
+- 💬 Ask me about **Full Stack Development, Python, SQL, Big Data, PySpark, Data Warehousing**
   
 - 🔭 I’m currently working on **End to End Data Engineering Project**
 
@@ -13,6 +13,7 @@
 
     - Exploring Data Structures
     - Azure Technologies
+    - Deep diving Node.js
     - Cloud and streaming tools
 
 - 📫 How to reach me **shridharbhardwaj@gmail.com | shree@csu.fullerton.edu**

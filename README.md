@@ -16,7 +16,7 @@
     - Deep diving Node.js
     - Cloud and streaming tools
 
-- 📫 How to reach me **shridharbhardwaj@gmail.com | shree@csu.fullerton.edu**
+- 📫 How to reach me **shree@csu.fullerton.edu**
 
 - ⚡ Fun fact **I enjoy making memes**
 

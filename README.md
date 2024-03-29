@@ -7,11 +7,12 @@
 
 - 💬 Ask me about **Full Stack Development, Python, SQL, Big Data, PySpark, Data Warehousing**
   
-- 🔭 I’m currently working on **End to End Data Engineering Project**
+- 🔭 I’m currently working on some personal **End to End Data Engineering Project**
 
 - 🧑🏻‍🏫 I am currently learning
 
     - Exploring Data Structures
+    - Advanced ReactJS
     - Azure Technologies
     - Deep diving Node.js
     - Cloud and streaming tools

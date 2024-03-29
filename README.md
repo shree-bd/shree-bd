@@ -15,6 +15,7 @@
     - Azure Technologies
     - Deep diving Node.js
     - Cloud and streaming tools
+    - Kafka and Airflow
 
 - 📫 How to reach me **shree@csu.fullerton.edu**
 

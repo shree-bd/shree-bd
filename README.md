@@ -14,7 +14,6 @@
     - Exploring Data Structures
     - Advanced ReactJS
     - Azure Technologies
-    - Deep diving Node.js
     - Cloud and streaming tools
     - Kafka and Airflow
 

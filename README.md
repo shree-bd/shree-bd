@@ -9,14 +9,13 @@
   
 - 🔭 I’m currently working on some personal **Full Stack Python Project using Django**
 
-- 🧑🏻‍🏫 I am currently learning
-
+- 🧑🏻‍🏫 I am currently 
     - Exploring Data Structures
     - Revisiting Django Framework
     - Advanced ReactJS
     - Azure Technologies
     - Cloud and streaming tools
-    - Kafka and Airflow
+    - Exploring Kafka and Airflow
 
 - 📫 How to reach me **shree@csu.fullerton.edu**
 

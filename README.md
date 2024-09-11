@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full Stack Development, Python, SQL, Big Data, PySpark, Data Warehousing**
   
-- 🔭 I’m currently working on some personal **Full Stack Python Project using Django**
+- 🔭 I’m currently working on some personal **Full Stack Python Project using Flask and Django**
 
 - 🧑🏻‍🏫 I am currently 
     - Exploring Data Structures

@@ -15,7 +15,7 @@
     - Advanced ReactJS
     - Azure Technologies
     - Cloud and streaming tools
-    - Exploring Kafka and Airflow
+    - Working on Kafka, Airflow, Docker, Kubernetes
 
 - 📫 How to reach me **shree@csu.fullerton.edu**
 

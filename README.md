@@ -3,7 +3,7 @@
 <h3 align="center">Software/Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shridharbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shridharbhardwaj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shridharbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shree-bd" /> </p>
 
 - 💬 Ask me about **Full Stack Development, Python, SQL, Big Data, PySpark, Data Warehousing**
   
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhardwajshrii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bhardwajshrii" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shridharbhardwaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shridharbhardwaj/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shree-bd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shree-bd/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shridharbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="shree-bd" /> </p>
 
-- 💬 Ask me about **Full Stack Development, Python, SQL, Big Data, PySpark, Data Warehousing**
+- 💬 Ask me about **Full Stack Development, Python, Java, Node.js, SQL, Big Data**
   
 - 🔭 I’m currently working on some personal **Full Stack Python Project using Flask and Django**
 

@@ -16,6 +16,7 @@
     - Azure Technologies
     - Cloud and streaming tools
     - Working on Kafka, Airflow, Docker, Kubernetes
+    - solving LeetCode
 
 - 📫 How to reach me **shree@csu.fullerton.edu**
 

@@ -1,6 +1,6 @@
 <!-- Dynamic Header with Typing Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shridhar%20Bhardwaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Data%20Consultant%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shridhar%20Bhardwaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 </div>
 
 <!-- Animated Introduction -->
@@ -28,7 +28,7 @@
 
 ```yaml
 name: Shridhar Bhardwaj
-role: Software Engineer & Data Consultant
+role: Software Engineer & Full Stack Developer
 location: California, USA
 education: Computer Science
 focus: Full Stack Development & Big Data
@@ -44,6 +44,7 @@ fun_fact: I enjoy making memes 😄
 - ⚛️ **Frontend Excellence**: Advanced ReactJS development
 
 ### 💡 Expertise
+
 ```javascript
 const shridhar = {
     languages: ["Python", "Java", "JavaScript", "C++", "SQL"],

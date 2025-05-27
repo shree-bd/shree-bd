@@ -138,27 +138,11 @@ const shridhar = {
 
 ---
 
-## 🌟 Featured Projects & Contributions
-
-<div align="center">
-  <a href="https://github.com/shree-bd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shree-bd&repo=your-best-repo&theme=radical&hide_border=true" alt="Featured Repo" />
-  </a>
-</div>
-
-### 🏗️ What I'm Building
+## 🏗️ What I'm Building
 - 🔥 **Full Stack Applications**: Modern web apps with Python backends
 - 📊 **Data Pipelines**: Real-time streaming with Kafka & Airflow
 - ☁️ **Cloud Solutions**: Scalable applications on Azure
 - 🤖 **ML Projects**: Intelligent systems with TensorFlow & PyTorch
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shree-bd&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" />
-</div>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->

@@ -26,36 +26,101 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<div align="left">
+  
 ```yaml
-name: Shridhar Bhardwaj
-role: Software Engineer & Full Stack Developer
-location: California, USA
-education: Computer Science
-focus: Full Stack Development & Big Data
-current_status: Building innovative solutions
-fun_fact: I enjoy making memes 😄
+🧑‍💻 Developer Profile:
+  name: "Shridhar Bhardwaj"
+  role: "Software Engineer & Full Stack Developer"
+  location: "Charlotte, North Carolina 🏙️"
+  education: "Computer Science 🎓"
+  focus: "Full Stack Development & Big Data 📊"
+  current_status: "Building innovative solutions 🚀"
+  passion: "Transforming ideas into reality ✨"
+  fun_fact: "I enjoy making memes 😄"
+  motto: "Code is poetry written in logic 💭"
 ```
 
+</div>
+
+<br clear="right"/>
+
 ### 🎯 Current Focus Areas
-- 🔭 **Full Stack Projects**: Flask & Django applications
-- 📊 **Data Engineering**: Kafka, Airflow, Docker, Kubernetes
-- ☁️ **Cloud Technologies**: Azure ecosystem exploration
-- 🧠 **Algorithm Mastery**: Daily LeetCode challenges
-- ⚛️ **Frontend Excellence**: Advanced ReactJS development
+
+<div align="left">
+
+| 🚀 **Area** | 🛠️ **Technologies & Focus** | 📈 **Status** |
+|-------------|------------------------------|---------------|
+| 🔭 **Full Stack Development** | Flask, Django, React, Node.js | `Active` |
+| 📊 **Data Engineering** | Kafka, Airflow, Docker, Kubernetes | `Learning` |
+| ☁️ **Cloud Technologies** | Azure, AWS, Microservices | `Exploring` |
+| 🧠 **Algorithm Mastery** | LeetCode, Data Structures | `Daily Practice` |
+| ⚛️ **Frontend Excellence** | Advanced React, TypeScript | `Advancing` |
+
+</div>
 
 ### 💡 Expertise
 
+<div align="center">
+
 ```javascript
-const shridhar = {
-    languages: ["Python", "Java", "JavaScript", "C++", "SQL"],
-    frameworks: ["Django", "Flask", "React", "Spring Boot"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Oracle"],
-    cloud: ["Azure", "Heroku", "Firebase"],
-    tools: ["Docker", "Kubernetes", "Kafka", "Airflow", "Git"],
-    architecture: ["Microservices", "RESTful APIs", "MVC"],
-    currentlyLearning: ["Advanced React Patterns", "Azure DevOps", "Data Streaming"]
+const shridharBhardwaj = {
+    // 🚀 Core Programming Languages
+    languages: [
+        "Python 🐍", "Java ☕", "JavaScript 🟨", 
+        "C++ ⚡", "SQL 🗄️", "TypeScript 📘"
+    ],
+    
+    // 🎯 Frameworks & Libraries  
+    frameworks: [
+        "Django 🎸", "Flask 🌶️", "React ⚛️", 
+        "Spring Boot 🍃", "Node.js 🟢", "Express.js 🚂"
+    ],
+    
+    // 🗄️ Database Technologies
+    databases: [
+        "PostgreSQL 🐘", "MongoDB 🍃", "MySQL 🐬", 
+        "Oracle 🔴", "Redis ⚡", "SQLite 📱"
+    ],
+    
+    // ☁️ Cloud & DevOps
+    cloud: [
+        "Azure ☁️", "AWS 🟠", "Heroku 💜", 
+        "Firebase 🔥", "Docker 🐳", "Kubernetes ⚙️"
+    ],
+    
+    // 🛠️ Tools & Technologies
+    tools: [
+        "Git 📝", "Kafka 🌊", "Airflow 🌪️", 
+        "Nginx 🌐", "Postman 📮", "Linux 🐧"
+    ],
+    
+    // 🏗️ Architecture Patterns
+    architecture: [
+        "Microservices 🔧", "RESTful APIs 🌐", 
+        "MVC 📐", "Event-Driven 📡"
+    ],
+    
+    // 📚 Currently Learning
+    currentlyLearning: [
+        "Advanced React Patterns 🎨", 
+        "Azure DevOps 🔄", 
+        "Data Streaming 🌊",
+        "System Design 🏛️"
+    ],
+    
+    // 🎯 Goals for 2024
+    goals: [
+        "Build scalable applications 🚀",
+        "Master cloud architecture ☁️",
+        "Contribute to open source 🌟"
+    ]
 };
+
+console.log("Welcome to my coding journey! 🚀");
 ```
+
+</div>
 
 ---
 

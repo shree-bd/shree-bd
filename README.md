@@ -61,66 +61,18 @@
 
 ### 💡 Expertise
 
-<div align="center">
-
 ```javascript
 const shridharBhardwaj = {
-    // 🚀 Core Programming Languages
-    languages: [
-        "Python 🐍", "Java ☕", "JavaScript 🟨", 
-        "C++ ⚡", "SQL 🗄️", "TypeScript 📘"
-    ],
-    
-    // 🎯 Frameworks & Libraries  
-    frameworks: [
-        "Django 🎸", "Flask 🌶️", "React ⚛️", 
-        "Spring Boot 🍃", "Node.js 🟢", "Express.js 🚂"
-    ],
-    
-    // 🗄️ Database Technologies
-    databases: [
-        "PostgreSQL 🐘", "MongoDB 🍃", "MySQL 🐬", 
-        "Oracle 🔴", "Redis ⚡", "SQLite 📱"
-    ],
-    
-    // ☁️ Cloud & DevOps
-    cloud: [
-        "Azure ☁️", "AWS 🟠", "Heroku 💜", 
-        "Firebase 🔥", "Docker 🐳", "Kubernetes ⚙️"
-    ],
-    
-    // 🛠️ Tools & Technologies
-    tools: [
-        "Git 📝", "Kafka 🌊", "Airflow 🌪️", 
-        "Nginx 🌐", "Postman 📮", "Linux 🐧"
-    ],
-    
-    // 🏗️ Architecture Patterns
-    architecture: [
-        "Microservices 🔧", "RESTful APIs 🌐", 
-        "MVC 📐", "Event-Driven 📡"
-    ],
-    
-    // 📚 Currently Learning
-    currentlyLearning: [
-        "Advanced React Patterns 🎨", 
-        "Azure DevOps 🔄", 
-        "Data Streaming 🌊",
-        "System Design 🏛️"
-    ],
-    
-    // 🎯 Goals for 2024
-    goals: [
-        "Build scalable applications 🚀",
-        "Master cloud architecture ☁️",
-        "Contribute to open source 🌟"
-    ]
+    languages: ["Python", "Java", "JavaScript", "C++", "SQL", "TypeScript"],
+    frameworks: ["Django", "Flask", "React", "Spring Boot", "Node.js", "Express.js"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Oracle", "Redis", "SQLite"],
+    cloud: ["Azure", "AWS", "Heroku", "Firebase", "Docker", "Kubernetes"],
+    tools: ["Git", "Kafka", "Airflow", "Nginx", "Postman", "Linux"],
+    architecture: ["Microservices", "RESTful APIs", "MVC", "Event-Driven"],
+    currentlyLearning: ["Advanced React Patterns", "Azure DevOps", "Data Streaming", "System Design"],
+    goals: ["Build scalable applications", "Master cloud architecture", "Contribute to open source"]
 };
-
-console.log("Welcome to my coding journey! 🚀");
 ```
-
-</div>
 
 ---
 

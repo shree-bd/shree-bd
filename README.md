@@ -28,18 +28,19 @@
 
 <div align="left">
   
+<h2>
+
 ```yaml
 🧑‍💻 Developer Profile:
-  name: "Shridhar Bhardwaj"
-  role: "Software Engineer & Full Stack Developer"
-  location: "Charlotte, North Carolina 🏙️"
-  education: "Computer Science 🎓"
-  focus: "Full Stack Development & Big Data 📊"
-  current_status: "Building innovative solutions 🚀"
-  passion: "Transforming ideas into reality ✨"
-  fun_fact: "I enjoy making memes 😄"
-  motto: "Code is poetry written in logic 💭"
+  Name: Shridhar Bhardwaj
+  Role: Software Engineer & Full Stack Developer
+  Education: Computer Science 🎓
+  Focus: Full Stack Development & Big Data 📊
+  Passion: Transforming Ideas Into Reality ✨
+  Fun Fact: I Enjoy Making Memes 😄
 ```
+
+</h2>
 
 </div>
 
@@ -49,30 +50,15 @@
 
 <div align="left">
 
-| 🚀 **Area** | 🛠️ **Technologies & Focus** | 📈 **Status** |
-|-------------|------------------------------|---------------|
-| 🔭 **Full Stack Development** | Flask, Django, React, Node.js | `Active` |
-| 📊 **Data Engineering** | Kafka, Airflow, Docker, Kubernetes | `Learning` |
-| ☁️ **Cloud Technologies** | Azure, AWS, Microservices | `Exploring` |
-| 🧠 **Algorithm Mastery** | LeetCode, Data Structures | `Daily Practice` |
-| ⚛️ **Frontend Excellence** | Advanced React, TypeScript | `Advancing` |
+| 🚀 **Area** | 🛠️ **Technologies & Focus** |
+|-------------|------------------------------|
+| 🔭 **Full Stack Development** | Flask, Django, React, Node.js |
+| 📊 **Data Engineering** | Kafka, Airflow, Docker, Kubernetes |
+| ☁️ **Cloud Technologies** | Azure, AWS, Microservices |
+| 🧠 **Algorithm Mastery** | LeetCode, Data Structures |
+| ⚛️ **Frontend Excellence** | Advanced React, TypeScript |
 
 </div>
-
-### 💡 Expertise
-
-```javascript
-const shridharBhardwaj = {
-    languages: ["Python", "Java", "JavaScript", "C++", "SQL", "TypeScript"],
-    frameworks: ["Django", "Flask", "React", "Spring Boot", "Node.js", "Express.js"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Oracle", "Redis", "SQLite"],
-    cloud: ["Azure", "AWS", "Heroku", "Firebase", "Docker", "Kubernetes"],
-    tools: ["Git", "Kafka", "Airflow", "Nginx", "Postman", "Linux"],
-    architecture: ["Microservices", "RESTful APIs", "MVC", "Event-Driven"],
-    currentlyLearning: ["Advanced React Patterns", "Azure DevOps", "Data Streaming", "System Design"],
-    goals: ["Build scalable applications", "Master cloud architecture", "Contribute to open source"]
-};
-```
 
 ---
 

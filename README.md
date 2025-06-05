@@ -120,14 +120,14 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css,sql" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,go,cpp,html,css,sql" alt="Programming Languages" />
 
-**Python • Java • JavaScript • C++ • HTML • CSS • SQL**
+**Python • Java • JavaScript • Golang • C++ • HTML • CSS • SQL**
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=django,flask,react,spring,nodejs,express" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,spring,nodejs,express" alt="Frameworks" />
 
-**Django • Flask • React • Spring Boot • Node.js • Express.js**
+**Django • Flask • FastAPI • React • Spring Boot • Node.js • Express.js**
 
 ### 🗄️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,azure,heroku" alt="Databases & Cloud" />

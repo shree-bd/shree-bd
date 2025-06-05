@@ -122,14 +122,22 @@
 ### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css,sql" alt="Programming Languages" />
 
+**Python • Java • JavaScript • C++ • HTML • CSS • SQL**
+
 ### 🚀 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=django,flask,react,spring,nodejs,express" alt="Frameworks" />
+
+**Django • Flask • React • Spring Boot • Node.js • Express.js**
 
 ### 🗄️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,azure,heroku" alt="Databases & Cloud" />
 
+**PostgreSQL • MongoDB • MySQL • Firebase • Azure • Heroku**
+
 ### 🔧 Tools & Technologies
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,nginx,postman" alt="Tools" />
+
+**Docker • Kubernetes • Git • Linux • Nginx • Postman**
 
 ### 📊 Data Science & ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="Data Science" />
@@ -137,6 +145,8 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+
+**TensorFlow • PyTorch • OpenCV • Pandas • Scikit-learn • Apache Kafka • Apache Airflow**
 
 </div>
 

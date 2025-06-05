@@ -187,22 +187,6 @@
 
 ---
 
-## 🎯 Goals & Vision
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Goals Animation" />
-</div>
-
-### 🚀 2024 Objectives
-- [ ] Master advanced React patterns and state management
-- [ ] Build production-ready microservices architecture
-- [ ] Contribute to major open-source projects
-- [ ] Achieve Azure certifications
-- [ ] Launch personal SaaS product
-- [ ] Mentor aspiring developers
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
   

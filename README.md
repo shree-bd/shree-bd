@@ -1,6 +1,6 @@
 <!-- Dynamic Header with Typing Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shridhar%20Bhardwaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shridhar%20Bhardwaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%Software%20Engineer%20%7C&descAlignY=51&descAlign=50"/>
 </div>
 
 <!-- Animated Introduction -->

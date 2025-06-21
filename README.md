@@ -4,19 +4,18 @@
 
 <div align="left">
   
-<h2>
+<h1>
 
 ```yaml
 🧑‍💻 Developer Profile:
   Name: Shridhar Bhardwaj
-  Role: Software Engineer & Full Stack Developer
-  Education: Computer Science 🎓
-  Focus: Full Stack Development & Big Data 📊
-  Passion: Transforming Ideas Into Reality ✨
-  Fun Fact: I Enjoy Making Memes 😄
+  Role: Full Stack Software Engineer & Data Practitioner
+  Education: Master of Science in Computer Science
+  Focus: Software Development & Data Science
+  Exploring: NLP, Generative AI, RAG, etc.
 ```
 
-</h2>
+</h1>
 
 </div>
 

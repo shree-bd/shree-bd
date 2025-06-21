@@ -1,27 +1,3 @@
-<!-- Dynamic Header with Typing Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shridhar%20Bhardwaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
-</div>
-
-<!-- Animated Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<!-- Profile Views Counter with Style -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shree-bd&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shree-bd?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge" alt="Focus" />
-</div>
-
-<br/>
-
-<!-- About Me Section with Enhanced Design -->
-<div align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Coding Animation" />
-</div>
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">

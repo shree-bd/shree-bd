@@ -1,10 +1,10 @@
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left">
-  
-<h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>
 
 ```yaml
 🧑‍💻 Developer Profile:
@@ -16,10 +16,13 @@
 ```
 
 </h3>
-
+      </td>
+      <td>
+        <img alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br clear="right"/>
 
 ## 🛠️ Technology Stack
 
@@ -61,10 +64,6 @@
 ## 📊 Advanced GitHub Analytics
 
 <div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=shree-bd&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
 
 ### 🔥 Streak Statistics
 <img src="https://streak-stats.demolab.com?user=shree-bd&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
